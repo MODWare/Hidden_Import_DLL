@@ -12,6 +12,8 @@ We can Notice that 0 import from Kernel32.dll but let's look deeper by using **H
 ![Screenshot (408)](https://user-images.githubusercontent.com/72650499/131379910-230f11e9-5a50-4f39-bc25-4033d410460e.png)
 
 There are +50 hidden imports from Kernel32.dll only
+
+The md5 Hash of the sample : 69BEC32D50744293E85606A5E8F80425
 # Note
 make sure Python 3.9 or above installed to avoid any problems  
 
