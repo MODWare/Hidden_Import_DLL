@@ -15,7 +15,7 @@ There are +50 hidden imports from Kernel32.dll only
 
 The md5 Hash of the sample : 69BEC32D50744293E85606A5E8F80425
 # Note
-make sure Python 3.9 or above installed to avoid any problems  
+Make sure Python 3.9 or above installed to avoid any problems  
 
 # Contact With Author 
 **Twitter:**  https://twitter.com/TechMOD1
